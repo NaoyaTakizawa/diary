@@ -261,3 +261,9 @@ Typescriptに進む前にもう少し理解したいと考えたので、Youtube
 ドットインストール復習
 useStateの理解を深めることができた。
 明日はTypescriptのを理解するために、Youtubeで学習したいと思う。
+
+# 3/7
+日本一わかりやすいTypescript入門1-5
+TypescriptとESLint,Prettierの環境構築をした。
+基本の型定義のやり方、関数の引数、戻り値、関数自体に型定義する方法を学んだ。
+明日は6-11をやろうと思う。
