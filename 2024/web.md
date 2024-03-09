@@ -272,3 +272,8 @@ TypescriptとESLint,Prettierの環境構築をした。
 日本一わかりやすいTypescript入門6-11
 オブジェクトや非同期処理の型定義や、typeを使った型の定義方法を学んだ。
 次回はドットインストールでTypescript入門を手を動かしながらやる。
+
+# 3/9
+ドットインストールTypescript
+Typescriptを使ってコードを書く練習ができた。
+次回はNextの内容理解のために、Youtubeで学習する。1-7
