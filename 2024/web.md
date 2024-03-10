@@ -277,3 +277,9 @@ TypescriptとESLint,Prettierの環境構築をした。
 ドットインストールTypescript
 Typescriptを使ってコードを書く練習ができた。
 次回はNextの内容理解のために、Youtubeで学習する。1-7
+
+# 3/10
+YoutubeでNext学習1-6
+環境構築、Linkコンポーネント、Headコンポーネント、
+preレンダリングなどについて学んだ。
+明日は最後までやる。
